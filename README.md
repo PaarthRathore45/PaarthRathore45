@@ -18,7 +18,7 @@ I enjoy working on projects that combine software with real-world problems, from
 
 ### Projects
 
-🔹 **[WishCraft]((https://github.com/PaarthRathore45/WishCraft_UGA_Hacks_2026))** — A web-based project developed during UGA Hacks 11.
+🔹 **[WishCraft](https://github.com/PaarthRathore45/WishCraft_UGA_Hacks_2026)** — A web-based project developed during UGA Hacks 11.
 
 🔹 **[Attitude Control](https://github.com/PaarthRathore45/Attitude_Control_Research_Paper)** — A control systems project involving PID-based attitude stabilization.
 
@@ -26,4 +26,4 @@ I've also worked on projects involving robotics, data analytics, payment systems
 
 ### Connect
 
-[LinkedIn]((https://www.linkedin.com/in/paarthrathore/))
+[LinkedIn](https://www.linkedin.com/in/paarthrathore/)
