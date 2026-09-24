@@ -13,7 +13,7 @@ I enjoy working on projects that combine software with real-world problems, from
 
 ### Technologies
 
-**Languages:** Python, Java, SQL, TypeScript, JavaScript, HTML/CSS
+**Languages:** Python, Java, SQL, TypeScript, JavaScript, HTML/CSS  
 **Tools:** Git, GitHub, Linux, ROS 2, Power BI, Azure Databricks
 
 ### Projects
